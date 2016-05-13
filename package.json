@@ -9,7 +9,7 @@
     "webpack:build:js": "webpack",
     "webpack:watch:js": "webpack --watch"
   },
-  "author": "Wesley",
+  "author": "Name",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.8.0",
